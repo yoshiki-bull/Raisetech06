@@ -3,9 +3,6 @@
 
 ## 結果一覧。
 
-![第六回課題提出用2.png](..%2F..%2FImages%2F%91%E6%98%5A%89%F1%89%DB%91%E8%92%F1%8F%6F%97%702.png)
-
-
 <img width="939" alt="第六回課題提出用" src="https://user-images.githubusercontent.com/120367482/211142428-6e127d41-1401-4184-94a7-62d4d9256c30.png">
 
 
