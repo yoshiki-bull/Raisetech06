@@ -36,8 +36,4 @@ public class RestDevelop {
                 """;
     }
 
-    @GetMapping("/dodo")
-    String dodo() {
-        return dodo();
-    }
 }
