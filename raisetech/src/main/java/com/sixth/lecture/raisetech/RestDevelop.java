@@ -35,4 +35,9 @@ public class RestDevelop {
                 paddington
                 """;
     }
+
+    @GetMapping("/dodo")
+    String dodo() {
+        return dodo();
+    }
 }
